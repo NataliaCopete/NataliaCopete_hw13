@@ -55,8 +55,8 @@ for j in range(N):
 probacambio=cambio/(float(N))
 probanocambio= nocambio/(float(N))
 
-print(probacambio)
-print(probanocambio)  
+print("la probabilidad  con cambio es",probacambio)
+print("la probabilidad sin cambio es ",probanocambio)  
   
     
   
